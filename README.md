@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiyamotoNitobe
-- 👀 I’m interested in innovative programming languages and blockchain applications.
-- 🌱 I’m always learning.
+- I’m interested in innovative programming languages and blockchain applications.
+- I’m always learning.
 - 📫 Reach me via email at MiyamotoNitobe@proton.me
 
 <!---
